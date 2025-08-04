@@ -17,6 +17,7 @@ pip install torch numpy scikit-learn tqdm tensorboardX prefetch_generator
 ## Quick Start
 1. **Prepare your data**
    - Place your processed data files (e.g., `ionchannel_dataset/proteins_dict.pkl`, `embedding/drug_dict.pkl`) in the `input/` directory under the project root.
+   - To get dataset：https://drive.google.com/drive/folders/1-ZG31a4M02v96NHhzA1LidmcDKcpxOum?usp=sharing
 
 2. **Train and Evaluate**
    - Run the main script:
